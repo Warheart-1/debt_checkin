@@ -1,0 +1,7 @@
+fastAPI[standard]
+uvicorn[standard]
+pytest
+mypy
+alembic
+redis
+sqlalchemy
