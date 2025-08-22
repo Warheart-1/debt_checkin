@@ -5,3 +5,5 @@ mypy
 alembic
 redis
 sqlalchemy
+pydantic_settings
+pydantic
